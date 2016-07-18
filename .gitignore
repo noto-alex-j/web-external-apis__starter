@@ -6,3 +6,5 @@ coverage/index.html
 coverage/.resultset*
 .env
 public/uploads
+
+app/models/api_key.rb
